@@ -4,7 +4,7 @@ const data = [
     title: 'Extreme Tic Tac Toe AI BoT',
     subtitle: 'Super AI Bot',
     link: 'https://github.com/nsk06/AI-bot',
-    image: '/images/projects/bot.png',
+    image: '/personal-site/images/projects/bot.png',
     date: '2019-02-20',
     desc: 'Built for a playing extreme tic tac toe and learning throughout it '
       + 'Graph search and pruning, '
