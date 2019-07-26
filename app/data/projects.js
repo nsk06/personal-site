@@ -1,42 +1,42 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Extreme Tic Tac Toe AI BoT',
+    subtitle: 'Super AI Bot',
+    link: 'https://github.com/nsk06/AI-bot',
+    image: '/images/projects/bot.png',
+    date: '2019-02-20',
+    desc: 'Built for a playing extreme tic tac toe and learning throughout it '
+      + 'Graph search and pruning, '
+      + 'Probabilistic Strategy choice and move ordering'
+      + 'Learning element to improve moves',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Video Lecture Slide Mapping',
+    subtitle: '93% accuracy',
+    link: 'https://github.com/nsk06/Video-Lecture-Slide-Mapper',
+    image: '/images/projects/video-slide.png',
+    date: '2019-02-20',
+    desc: 'A video lecture slide matching algorithm '
+      + 'Use of feature matching(SIFT),Template Matching'
+      + 'Improvement using Text recognition and Normal Correlation matching',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'PCA EigenFaces Regeneration',
+    subtitle: 'Performing face match and regeneration on large dataset using principal component analysis',
+    link: 'https://github.com/nsk06/PCA-Face-Regeneration',
+    image: '/images/projects/pca.jpg',
+    date: '2019-02-20',
+    desc: 'Using PCA on large dataset for feature selection'
+      + 'Using eigen faces to compress images '
+      + 'Matching and regeneration using inverse eigen faces',
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'MultiParty Negotiations',
+    subtitle: 'A system design and implementation of negotiations among multiple parties based on different strategies and learning',
+    link: 'https://github.com/nsk06/MultiParty-Negotiations',
+    image: '/images/projects/multiparty-negotiation.jpg',
+    date: '2019-02-20',
+    desc: 'Honours Project Under Prof Praveen Paruchuri'
+     + 'Designed and implemented the system for multiparty negotiations'
+     + 'Different strategies for prediction and learning and preference profiles used for experimental results',
   },
 ];
 

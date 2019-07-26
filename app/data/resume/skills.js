@@ -79,24 +79,20 @@ export const skills = [
     compentency: 3,
     category: ['Web Development', 'Databases'],
   },
-  {
-    title: 'PostgreSQL',
-    compentency: 4,
-    category: ['Web Development', 'Databases'],
-  },
+  
   {
     title: 'SQLite3',
     compentency: 4,
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'Redis',
+    title: 'Golang',
     compentency: 3,
     category: ['Web Development', 'Databases'],
   },
   {
     title: 'Matlab',
-    compentency: 2,
+    compentency: 5,
     category: ['Data Science', 'Machine Learning', 'Languages'],
   },
   {
@@ -110,15 +106,11 @@ export const skills = [
     category: ['Data Science', 'Machine Learning'],
   },
   {
-    title: 'Express.JS',
+    title: 'Django',
     compentency: 4,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Web Development', 'Frameworks', 'Python'],
   },
-  {
-    title: 'Koa',
-    compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
+  
   {
     title: 'D3',
     compentency: 3,
@@ -139,14 +131,10 @@ export const skills = [
     compentency: 3,
     category: ['Data Science', 'Machine Learning'],
   },
-  {
-    title: 'Mercurial',
-    compentency: 3,
-    category: ['Tools'],
-  },
+  
   {
     title: 'Git',
-    compentency: 3,
+    compentency: 4,
     category: ['Tools'],
   },
   {
